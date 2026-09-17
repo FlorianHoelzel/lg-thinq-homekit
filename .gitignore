@@ -1,0 +1,24 @@
+# Credentials and machine-specific configuration
+config.local.json
+tokens.py
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# HomeKit identity, private keys and pairing data (including legacy paths)
+*.state
+*.state.*
+*.log
+
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Unused local upstream checkout; lg.py uses thinqconnect instead
+/wideq/
+.DS_Store

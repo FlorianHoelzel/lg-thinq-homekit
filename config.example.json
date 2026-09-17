@@ -1,0 +1,8 @@
+{
+  "ACCESS_TOKEN": "",
+  "CLIENT_ID": "",
+  "COUNTRY_CODE": "DE",
+  "POLL_INTERVAL": 15,
+  "HOMEKIT_PORT": 51827,
+  "PERSIST_FILE": "accessory.state"
+}
