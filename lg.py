@@ -32,6 +32,7 @@ STATE_NAMES = {
     "POWER_OFF": "Aus",
     "RESERVED": "Geplant",
     "DETECTING": "Beladung erkennen",
+    "RUNNING": "Läuft",
     "WASHING": "Waschen",
     "RINSING": "Spülen",
     "SPINNING": "Schleudern",
@@ -45,6 +46,7 @@ STATE_NAMES = {
 RUNNING_STATES = {
     "RESERVED",
     "DETECTING",
+    "RUNNING",
     "WASHING",
     "RINSING",
     "SPINNING",
